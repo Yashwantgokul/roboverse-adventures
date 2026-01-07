@@ -98,7 +98,7 @@ const LegacyFiles = () => {
             </h1>
           </div>
           <p className="text-xl text-amber-200/60 font-body">
-            53cur3}
+            53cur3{'}'}
           </p>
         </div>
 

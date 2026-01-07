@@ -91,7 +91,7 @@ const ProtoLab = () => {
           Prototype Lab
         </h1>
         <p className="text-xl text-indigo-200/80 text-center mb-12 font-body">
-          VV{d154ll0w_
+          VV{'{'}d154ll0w_
         </p>
 
         {/* Main content */}

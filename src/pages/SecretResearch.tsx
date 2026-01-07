@@ -97,7 +97,7 @@ const SecretResearch = () => {
           Robot Behavior Research Notes
         </h1>
         <p className="text-xl text-cyan-200/60 text-center mb-16 font-body">
-          Advanced Studies Division
+          d035n7_m34n_
         </p>
 
         {/* Main content */}
